@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1594103281 source:c:\users\峰\desktop\新建文件夹\2020\c++作业\algpengzugeng\algpengzugeng.cpp
+	"sortalgoritihm.h"
+
+1594276293 c:\users\峰\desktop\新建文件夹\2020\c++作业\algpengzugeng\sortalgoritihm.h
+	<ctime>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<math.h>
+	"winbgim.h"
+
+1266058214 c:\users\峰\desktop\c语言程序设计\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1594276497 source:c:\users\峰\desktop\新建文件夹\2020\c++作业\algpengzugeng\sortalgoritihm.cpp
+	"sortalgoritihm.h"
+
